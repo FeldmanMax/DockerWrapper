@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/maksik1/IdeaProjects/DockerWrapper/src/test/resources/application.conf,/Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/maksik1/IdeaProjects/DockerWrapper/src/test/resources/dockerfiles.success,/Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/maksik1/IdeaProjects/DockerWrapper/src/test/resources/logback-test.xml,/Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/logback-test.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/maksik1/IdeaProjects/DockerWrapper/src/test/resources/dockerfiles.success/Dockerfile,/Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success/Dockerfile)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/maksik1/IdeaProjects/DockerWrapper/src/test/resources/dockerfiles.success/hello,/Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success/hello)[0m

@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/dockerwrapper_2.12-0.1.0-SNAPSHOT-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/ImageServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services/ImageServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dockerfiles.success[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dockerfiles.success/Dockerfile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success/Dockerfile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/ImageBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services/ImageBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/ContainerServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services/ContainerServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/TCommanderBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services/TCommanderBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dockerfiles.success/hello[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/dockerfiles.success/hello[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/TCommanderBuilder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksik1/IdeaProjects/DockerWrapper/target/scala-2.12/test-classes/services/TCommanderBuilder$$anon$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

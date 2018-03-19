@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mContainerServiceTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- No containers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get one container[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- flow test - hello world docker[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- load image - api response[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- load image - api response - 1w1w1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- load api response docker[0m[0m

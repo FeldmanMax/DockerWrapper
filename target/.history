@@ -1,0 +1,18 @@
+help
+exit
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}dockerwrapper/testOnly services.ImageServiceTest
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}dockerwrapper/testOnly services.ContainerServiceTest
+show fullClasspath
+show classpathTypes
+show fullclassPath
+show fullClasspath
+show classpathTypes
+help fork
+test help
+help test
+help run
+help javaOptions
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}root/testOnly services.ContainerServiceTest -- -t "No containers"
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}root/testOnly services.ImageServiceTest -- -t adaasdas
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}root/testOnly services.ImageServiceTest
+{file:/Users/maksik1/IdeaProjects/DockerWrapper/}root/testOnly services.ImageServiceTest -- -t "build hello-world 2.0.0 docker"
