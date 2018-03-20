@@ -14,13 +14,8 @@ lazy val root = (project in file("."))
     commonSettings,
     name := "DockerWrapper",
     libraryDependencies ++= Seq(
-      "org.scalatest" %% "scalatest" % "3.0.0" % "test")
+      "org.scalatest" %% "scalatest" % "3.0.1" % "test")
   )
 unmanagedBase := baseDirectory.value / "lib"
-
-
-//classpathTypes in Runtime += baseDirectory.value + "/src/main/resources/"
-//classpathTypes in Compile += baseDirectory.value + "/src/test/resources/"
-//classpathTypes in Test += baseDirectory.value + "/src/test/resources/"
 
 exportJars := true
